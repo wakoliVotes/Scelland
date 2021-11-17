@@ -12,8 +12,11 @@ body
     text-transform: capitalize;
     font-weight: 800;
     background-color: rgb(49, 51, 49);
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 60px;
+    padding-left: 60px;
+    text-align: center;
+    margin-right: 5px;
+    border-radius: 5px;
 }
 .f-name
 {
@@ -30,7 +33,10 @@ body
 
 .navbar-brand:hover
 {
-    background-color: rgb(58, 21, 223);
+    background-color: rgb(247, 4, 206);
+    margin-right: 0;
+    text-transform: uppercase;
+    border-radius: 0;
 }
 .navbar-nav a
 {
@@ -60,7 +66,6 @@ body
     margin-right: 5px;
     margin-top: 5px;
 }
-
 /* Social Media Icons */
 .col-md-12
 {
@@ -294,11 +299,11 @@ img.blog-inner
 /* ======  Highlights ===========*/
 #highlights
 {    
-    border-bottom: solid rgb(219, 42, 42);
+    border-bottom: solid red;
 }
 #highlights .col-md-2
 {
-    border-left: solid rgb(219, 42, 42);
+    border-left: solid red;
     height: 80px;
 }
 #highlights .col-md-2 a
