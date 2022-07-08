@@ -1,0 +1,22 @@
+{
+  "name": "scelland",
+  "version": "1.0.0",
+  "description": "scelland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakoliVotes/Scelland.git"
+  },
+  "keywords": [
+    "success"
+  ],
+  "author": "Noogler Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakoliVotes/Scelland/issues"
+  },
+  "homepage": "https://github.com/wakoliVotes/Scelland#readme"
+}
