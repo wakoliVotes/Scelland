@@ -1285,7 +1285,8 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  /* error message notification un-view */
+  background: #fefefe;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1567,4 +1568,11 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+}
+#last-contact.email:hover, #last-contact.phone:hover
+{
+  text-decoration: underline;
+  background-color: white;
+  color: white;
+  background: white;
 }
