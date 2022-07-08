@@ -6,4 +6,4 @@
  
  - Bootstrap is a powerful front-end framework that revolutionized the web development industry.
  - Bootstrap  accelerates the design process by providing pre-made design themes and templates that are customizable and easy to use
- - Visit home site at **[Scelland Labs](https://scelland.com)**
+ - Visit Test site at **[Scelland](https://wakolivotes.github.io/Scelland/)**
